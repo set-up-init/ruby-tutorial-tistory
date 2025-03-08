@@ -1,0 +1,2 @@
+Hello World, Ruby!
+File Write Studying!
